@@ -1,6 +1,9 @@
 import numpy as np
 import logging
+import time
 
+
+time.sleep(600)
 
 print('asdasdadadsadas')
 with open("/mnt/course-ee-628/scratch/mamiri/rl_course/example.txt", "w") as file:
