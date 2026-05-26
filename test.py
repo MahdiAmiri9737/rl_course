@@ -2,7 +2,7 @@ import numpy as np
 import logging
 
 
-
+print('asdasdadadsadas')
 with open("/mnt/course-ee-628/scratch/mamiri/rl_course/example.txt", "w") as file:
     pass
 
