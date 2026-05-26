@@ -3,7 +3,7 @@ import logging
 
 
 
-with open("example.txt", "w") as file:
+with open("/mnt/course-ee-628/scratch/mamiri/rl_course/example.txt", "w") as file:
     pass
 
 # logging.basicConfig(filename= 'mmmmm.log',
