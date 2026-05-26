@@ -1,7 +1,7 @@
 import numpy as np
 import logging
 
-logging.basicConfig(filename= 'mmmmm.log,
+logging.basicConfig(filename= 'mmmmm.log',
                       format= '%(asctime)s %(message)s',
                       level= logging.INFO,
                       filemode= 'w')
